@@ -52,18 +52,6 @@ I build secure, intelligent systems — combining algorithmic thinking with real
 
 ---
 
-## Projects
-
-**🛡 Autonomous Cyber Incident Response System**  
-Local LLM-based alert analysis with SIEM/EDR log correlation and automated playbook generation. Fully offline, air-gapped pipeline.
-
-**📑 SAR Narrative Generator**  
-AI-assisted banking compliance reporting with transparent audit-trail architecture and scalable narrative generation.
-
-**🏫 Secure ERP Risk Modeling**  
-Threat modeling + RBAC design for ERP environments with formal information flow security analysis.
-
----
 
 ## Interests
 
